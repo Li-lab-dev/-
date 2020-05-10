@@ -7,7 +7,7 @@
   * C/C++语言基础
   * Windows程序设计
  
-如果没有以上知识建议阅读：汇编语言:基于x86处理器(王爽)  C++Primer Plus(Stephen Prata)  Windows程序设计(CharlesPetzold)
+如果没有以上知识建议阅读：汇编语言:基于x86处理器(王爽)、 C++Primer Plus(Stephen Prata)、 Windows程序设计(CharlesPetzold)
 
 工具以及介质
 ===
