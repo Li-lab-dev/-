@@ -7,7 +7,7 @@
   * C/C++语言基础
   * Windows程序设计
  
-如果没有以上知识建议阅读：汇编语言:基于x86处理器(王爽)、 C++Primer Plus(Stephen Prata)、 Windows程序设计(CharlesPetzold)
+如果没有以上知识建议阅读：X86汇编语言：实模式到保护模式(李忠)、 C++Primer Plus(Stephen Prata)、 Windows程序设计(CharlesPetzold)
 
 工具以及介质
 ===
@@ -32,5 +32,3 @@
 ===
 
 [点击加入群聊【飞郁逆向交流群(深入浅出)】](https://jq.qq.com/?_wv=1027&k=5hJCkRe)  群号：735018695
-
-[了解我们](http://www.feiyuol.com/)
