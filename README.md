@@ -6,8 +6,9 @@
   * 汇编语言
   * C/C++语言基础
   * Windows程序设计
+  * 软件逆向基础
  
-如果没有以上知识建议阅读：X86汇编语言：实模式到保护模式(李忠)、 C++Primer Plus(Stephen Prata)、 Windows程序设计(CharlesPetzold)
+如果没有以上知识建议观看：https://edu.csdn.net/course/detail/30509
 
 工具以及介质
 ===
